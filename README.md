@@ -2,7 +2,7 @@
 
 ![Game Screenshot](screenshot.png) <!-- Replace with an actual screenshot of your game -->
 
-A simple flappy-bird like game built using HTML5 Canvas, CSS, and JavaScript.
+A simple flappy-bird like game built using JavaScript.
 
 ## Description
 
