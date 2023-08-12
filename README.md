@@ -1,6 +1,6 @@
 # My Jumper Game from Sololearn Game Development with JS
 
-![Game Screenshot](screenshot.png) <!-- Replace with an actual screenshot of your game -->
+![Game Screenshot]([screenshot.png](https://lecontent.sololearn.com/material-images/00001421000004746b340000a2120000_rectangles%20%20circles.jpg))
 
 A simple flappy-bird like game built using JavaScript.
 
@@ -14,3 +14,5 @@ Welcome to "My Jumper Game"! This project is a fun and addictive game that chall
 - Responsive and dynamic game visuals.
 - Score tracking to keep track of your performance.
 - Easy-to-understand controls.
+
+https://lecontent.sololearn.com/material-images/00001421000004746b340000a2120000_rectangles%20%20circles.jpg
