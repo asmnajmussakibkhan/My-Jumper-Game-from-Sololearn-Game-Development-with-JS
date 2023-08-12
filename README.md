@@ -1,6 +1,6 @@
 # My Jumper Game from Sololearn Game Development with JS
 
-![Game Screenshot](https://lecontent.sololearn.com/material-images/00001421000004746b340000a2120000_rectangles%20%20circles.jpg)
+![Game Screenshot](https://github.com/asmnajmussakibkhan/My-Jumper-Game-from-Sololearn-Game-Development-with-JS/blob/main/My-Jumper-Game-Screenshot.png)
 
 A simple flappy-bird like game built using JavaScript.
 
