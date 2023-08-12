@@ -1,4 +1,4 @@
-# My-Jumper-Game-from-Sololearn-Game-Development-with-JS
+# My Jumper Game from Sololearn Game Development with JS
 <div>
   Details
 </div>
